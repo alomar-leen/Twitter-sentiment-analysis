@@ -1,1 +1,2 @@
 # Twitter-sentiment-analysis
+During the COVID-19 pandemic, many sectors have been influenced in a positive or negative manner. While people formed various perceptions and opinions regarding these influences. to develop insights into the public’s satisfaction regarding health care services in late October to early November during COVID-19 in Saudi Arabia compared with the United Kingdom. sentiment analysis was conducted using Twitter platform data.
